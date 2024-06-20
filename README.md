@@ -6,6 +6,10 @@ qualifications I have earned through various professional development courses.
 It reflects my ongoing commitment to enhancing my skills, knowledge, and
 competencies in my field.
 
+## 2024
+
+- [SQL Academy Certificate](https://github.com/vladimir-skvortsov/CPD/blob/master/SQL%20Academy%20Certificate.pdf)
+
 ## 2023
 
 - [Unsupervised Machine Learning for Customer Market Segmentation](https://github.com/vladimir-skvortsov/CPD/blob/master/Unsupervised%20Machine%20Learning%20for%20Customer%20Market%20Segmentation.pdf)
