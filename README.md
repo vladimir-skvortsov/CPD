@@ -9,6 +9,7 @@ competencies in my field.
 ## 2024
 
 - [SQL Academy Certificate](https://github.com/vladimir-skvortsov/CPD/blob/master/SQL%20Academy%20Certificate.pdf)
+- [Google Data Analytics Professional Certificate](https://github.com/vladimir-skvortsov/CPD/blob/master/Google%20Data%20Analytics%20Professional%20Certificate.pdf)
 
 ## 2023
 
