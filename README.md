@@ -8,8 +8,9 @@ competencies in my field.
 
 ## 2024
 
-- [SQL Academy Certificate](https://github.com/vladimir-skvortsov/CPD/blob/master/SQL%20Academy%20Certificate.pdf)
+- [Google AI Essentials](https://github.com/vladimir-skvortsov/CPD/blob/master/Google%20AI%20Essentials.pdf)
 - [Google Data Analytics Professional Certificate](https://github.com/vladimir-skvortsov/CPD/blob/master/Google%20Data%20Analytics%20Professional%20Certificate.pdf)
+- [SQL Academy Certificate](https://github.com/vladimir-skvortsov/CPD/blob/master/SQL%20Academy%20Certificate.pdf)
 
 ## 2023
 
