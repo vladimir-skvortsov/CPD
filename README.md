@@ -6,6 +6,10 @@ qualifications I have earned through various professional development courses.
 It reflects my ongoing commitment to enhancing my skills, knowledge, and
 competencies in my field.
 
+## 2025
+
+- [The Essential Guide To Type Annotations In Python](https://github.com/vladimir-skvortsov/CPD/blob/master/The%20Essential%20Guide%20To%20Type%20Annotations%20In%20Python.pdf)
+
 ## 2024
 
 - [Google AI Essentials](https://github.com/vladimir-skvortsov/CPD/blob/master/Google%20AI%20Essentials.pdf)
