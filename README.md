@@ -8,6 +8,7 @@ competencies in my field.
 
 ## 2025
 
+- [Generative Adversarial Networks (GANs)](https://github.com/vladimir-skvortsov/CPD/blob/master/Generative%20Adversarial%20Networks%20(GANs).pdf)
 - [The Essential Guide To Type Annotations In Python](https://github.com/vladimir-skvortsov/CPD/blob/master/The%20Essential%20Guide%20To%20Type%20Annotations%20In%20Python.pdf)
 
 ## 2024
